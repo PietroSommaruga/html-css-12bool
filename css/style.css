@@ -1,0 +1,19 @@
+.blocco{
+    margin-bottom: 20px;
+}
+.blue{
+    height: 50px;
+    background-color: teal;
+    border: 2px solid #fff;
+}
+
+.inside{
+    background-color: teal;
+    padding: 10px;
+}
+
+.nested{
+    height: 50px;
+    background-color: green;
+    z-index: 1;
+}
